@@ -1,18 +1,33 @@
-## Hi there 👋
+Santiago (@santiago9292)
 
-<!--
-**santiago9292/santiago9292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional de la gestión y desarrollador de software. Me especializo en traducir flujos de trabajo corporativos complejos en herramientas digitales eficientes, diseñadas para facilitar la toma de decisiones, automatizar tareas y optimizar los recursos operativos.
 
-Here are some ideas to get you started:
+🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Mi enfoque principal es construir plataformas que resuelvan problemas de negocio reales, empoderando a los equipos de liderazgo y gestión con datos claros y procesos seguros.
+
+🔭 Desarrollador de Caja Chica (caja_chica), un sistema integral para el control financiero que incluye analíticas de rendimiento, gestión de SLAs y auditorías cronológicas (Kardex).
+
+🌱 Experiencia en la integración de arquitecturas escalables usando Supabase y en la automatización de validaciones fiscales mediante APIs de terceros (como Factiliza).
+
+⚙️ Implemento flujos de integración y despliegue continuo con Vercel y GitHub Actions para garantizar actualizaciones seguras y sin interrupciones operativas.
+
+🌍 Basado en Lima, Perú.
+
+💻 Ecosistema Tecnológico
+
+Arquitectura y Datos: Supabase
+
+Despliegue y Operaciones: Vercel, Git, GitHub Actions
+
+Lenguajes y Frameworks: (Ej. JavaScript, TypeScript, React - Actualizar según corresponda)
+
+📊 Métricas de Actividad
+
+📬 Contacto
+
+💼 Te invito a explorar mis repositorios para conocer más sobre las soluciones que he desarrollado.
+
+(Opcional: Enlace a tu perfil de LinkedIn)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santiago9292&theme=default)](https://git.io/streak-stats)

@@ -12,7 +12,7 @@ Profesional de la gestión y desarrollador de software. Me especializo en traduc
 
 ⚙️ Implemento flujos de integración y despliegue continuo con Vercel y GitHub Actions para garantizar actualizaciones seguras y sin interrupciones operativas.
 
-🌍 Basado en Lima, Perú.
+🌍 Lima, Perú.
 
 💻 Ecosistema Tecnológico
 
